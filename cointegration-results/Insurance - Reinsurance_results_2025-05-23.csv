@@ -1,0 +1,4 @@
+Ticker Pair,Industry,Correlation,Avg P-Value,Tests Run
+EG/RNR,Insurance - Reinsurance,0.9553,0.42394,624
+EG/RGA,Insurance - Reinsurance,0.9245,0.43993,624
+RGA/RNR,Insurance - Reinsurance,0.9327,0.53323,624

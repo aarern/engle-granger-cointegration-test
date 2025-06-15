@@ -1,0 +1,4 @@
+Ticker Pair,Industry,Correlation,Avg P-Value,Tests Run
+ICL/MOS,Agricultural Inputs,0.911,0.28279,624
+ENFY/IPI,Agricultural Inputs,0.8169,0.38204,624
+ENFY/SEED,Agricultural Inputs,0.9286,0.50111,624

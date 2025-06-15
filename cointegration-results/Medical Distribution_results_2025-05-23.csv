@@ -1,0 +1,4 @@
+Ticker Pair,Industry,Correlation,Avg P-Value,Tests Run
+CAH/MCK,Medical Distribution,0.9395,0.40503,624
+COR/MCK,Medical Distribution,0.9763,0.4334,624
+CAH/COR,Medical Distribution,0.9276,0.48162,624

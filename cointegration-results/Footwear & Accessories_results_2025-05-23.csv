@@ -1,0 +1,7 @@
+Ticker Pair,Industry,Correlation,Avg P-Value,Tests Run
+RCKY/SHOO,Footwear & Accessories,0.8376,0.24579,624
+CROX/DECK,Footwear & Accessories,0.8543,0.38642,624
+SHOO/SKX,Footwear & Accessories,0.8645,0.46176,624
+NKE/RCKY,Footwear & Accessories,0.8762,0.51886,624
+NKE/SHOO,Footwear & Accessories,0.8221,0.57602,624
+DECK/SKX,Footwear & Accessories,0.8187,0.59502,624

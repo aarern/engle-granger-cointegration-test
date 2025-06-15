@@ -1,0 +1,9 @@
+Ticker Pair,Industry,Correlation,Avg P-Value,Tests Run
+BKE/TJX,Apparel Retail,0.8589,0.3127,624
+SCVL/TJX,Apparel Retail,0.8608,0.31433,624
+LULU/TJX,Apparel Retail,0.8464,0.40562,624
+LULU/SCVL,Apparel Retail,0.8478,0.46643,624
+BKE/SCVL,Apparel Retail,0.8519,0.47102,624
+LULU/ROST,Apparel Retail,0.8716,0.49692,624
+ROST/TJX,Apparel Retail,0.949,0.50824,624
+ROST/SCVL,Apparel Retail,0.8577,0.56666,624

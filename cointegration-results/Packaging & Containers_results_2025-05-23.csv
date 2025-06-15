@@ -1,0 +1,26 @@
+Ticker Pair,Industry,Correlation,Avg P-Value,Tests Run
+CCK/SLGN,Packaging & Containers,0.9009,0.27474,624
+GPK/SLGN,Packaging & Containers,0.9622,0.31422,624
+CCK/GPK,Packaging & Containers,0.8584,0.32079,624
+MYE/SON,Packaging & Containers,0.8086,0.35508,624
+CCK/PKG,Packaging & Containers,0.858,0.36735,624
+GPK/PKG,Packaging & Containers,0.9642,0.39269,624
+GEF/SLGN,Packaging & Containers,0.8389,0.4041,624
+GEF/PKG,Packaging & Containers,0.8217,0.44452,624
+GEF/GPK,Packaging & Containers,0.8153,0.44689,624
+CCK/SON,Packaging & Containers,0.8782,0.47841,624
+GPK/IP,Packaging & Containers,0.803,0.51039,624
+SLGN/SON,Packaging & Containers,0.8619,0.51377,624
+BALL/CCK,Packaging & Containers,0.9039,0.52564,624
+AVY/CCK,Packaging & Containers,0.9253,0.54141,624
+PKG/SLGN,Packaging & Containers,0.9434,0.54689,624
+PKG/SON,Packaging & Containers,0.8554,0.54751,624
+AVY/GPK,Packaging & Containers,0.9354,0.55753,624
+IP/PKG,Packaging & Containers,0.8575,0.57558,624
+AVY/PKG,Packaging & Containers,0.9382,0.59331,624
+AVY/SON,Packaging & Containers,0.9181,0.61695,624
+BALL/SON,Packaging & Containers,0.8872,0.61695,624
+GPK/SON,Packaging & Containers,0.8712,0.61834,624
+AVY/BALL,Packaging & Containers,0.8526,0.62121,624
+AVY/SLGN,Packaging & Containers,0.9408,0.62125,624
+AVY/GEF,Packaging & Containers,0.8509,0.64276,624

@@ -1,0 +1,7 @@
+Ticker Pair,Industry,Correlation,Avg P-Value,Tests Run
+IHG/MAR,Lodging,0.9796,0.22292,624
+H/MAR,Lodging,0.9731,0.39325,624
+CHH/MAR,Lodging,0.9316,0.4513,624
+H/IHG,Lodging,0.9518,0.45926,624
+CHH/IHG,Lodging,0.8883,0.47628,624
+CHH/H,Lodging,0.8768,0.59658,624

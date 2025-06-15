@@ -1,0 +1,3 @@
+Ticker Pair,Industry,Correlation,Avg P-Value,Tests Run
+GOOG/GOOGL,Internet Content & Information,0.9999,0.27238,624
+IAC/MTCH,Internet Content & Information,0.9537,0.48206,624

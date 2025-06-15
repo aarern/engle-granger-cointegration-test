@@ -1,0 +1,16 @@
+Ticker Pair,Industry,Correlation,Avg P-Value,Tests Run
+AIRT/HON,Conglomerates,0.8514,0.29969,624
+CODI/HON,Conglomerates,0.9475,0.32188,624
+AIRT/CODI,Conglomerates,0.8155,0.34886,624
+CODI/OTTR,Conglomerates,0.8951,0.36733,624
+MDU/VMI,Conglomerates,0.8522,0.40485,624
+OTTR/RCMT,Conglomerates,0.874,0.41235,624
+HON/OTTR,Conglomerates,0.9104,0.43026,624
+DLX/NNBR,Conglomerates,0.8165,0.45964,624
+CODI/VMI,Conglomerates,0.8536,0.4699,624
+HON/MDU,Conglomerates,0.8034,0.48685,624
+HON/VMI,Conglomerates,0.8625,0.53037,624
+DLX/MATW,Conglomerates,0.8221,0.53136,624
+RCMT/VMI,Conglomerates,0.8007,0.54839,624
+OTTR/VMI,Conglomerates,0.8765,0.57904,624
+MDU/OTTR,Conglomerates,0.821,0.58139,624

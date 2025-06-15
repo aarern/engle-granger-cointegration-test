@@ -1,0 +1,4 @@
+Ticker Pair,Industry,Correlation,Avg P-Value,Tests Run
+HD/LOW,Home Improvement Retail,0.9899,0.38421,624
+HVT/LOW,Home Improvement Retail,0.8968,0.46057,624
+HD/HVT,Home Improvement Retail,0.876,0.70396,624

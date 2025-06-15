@@ -1,0 +1,4 @@
+Ticker Pair,Industry,Correlation,Avg P-Value,Tests Run
+LINC/UTI,Education & Training Services,0.8603,0.38383,624
+ATGE/LRN,Education & Training Services,0.8164,0.52862,624
+GHC/LOPE,Education & Training Services,0.8915,0.56729,624

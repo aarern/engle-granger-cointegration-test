@@ -1,0 +1,6 @@
+Ticker Pair,Industry,Correlation,Avg P-Value,Tests Run
+NTES/TTWO,Electronic Gaming & Multimedia,0.9468,0.32348,624
+EA/NTES,Electronic Gaming & Multimedia,0.9328,0.38728,624
+EA/TTWO,Electronic Gaming & Multimedia,0.9388,0.40987,624
+GRVY/TTWO,Electronic Gaming & Multimedia,0.849,0.43243,624
+GRVY/NTES,Electronic Gaming & Multimedia,0.8264,0.52447,624

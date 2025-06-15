@@ -1,0 +1,4 @@
+Ticker Pair,Industry,Correlation,Avg P-Value,Tests Run
+SSD/UFPI,Lumber & Wood Production,0.984,0.29198,624
+SSD/WFG,Lumber & Wood Production,0.8451,0.4525,624
+UFPI/WFG,Lumber & Wood Production,0.8709,0.45566,624

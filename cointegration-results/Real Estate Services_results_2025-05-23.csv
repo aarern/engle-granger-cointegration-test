@@ -1,0 +1,16 @@
+Ticker Pair,Industry,Correlation,Avg P-Value,Tests Run
+FRPH/TCI,Real Estate Services,0.9269,0.12336,624
+ARL/TCI,Real Estate Services,0.9036,0.1277,624
+ARL/FRPH,Real Estate Services,0.8527,0.22077,624
+FRPH/JLL,Real Estate Services,0.8155,0.29904,624
+CBRE/CIGI,Real Estate Services,0.9667,0.3007,624
+FRPH/MLP,Real Estate Services,0.8002,0.36978,624
+CIGI/FRPH,Real Estate Services,0.9135,0.37582,624
+CIGI/JLL,Real Estate Services,0.9084,0.38439,624
+CSGP/FRPH,Real Estate Services,0.8629,0.38511,624
+CSGP/TCI,Real Estate Services,0.8124,0.3959,624
+CBRE/JLL,Real Estate Services,0.9205,0.41407,624
+CIGI/TCI,Real Estate Services,0.8401,0.47054,624
+CBRE/FRPH,Real Estate Services,0.8462,0.49694,624
+CIGI/CSGP,Real Estate Services,0.9093,0.54495,624
+CBRE/CSGP,Real Estate Services,0.8703,0.58506,624

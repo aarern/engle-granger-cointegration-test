@@ -1,0 +1,5 @@
+Ticker Pair,Industry,Correlation,Avg P-Value,Tests Run
+MTRN/RIO,Other Industrial Metals & Mining,0.9272,0.30255,624
+BHP/RIO,Other Industrial Metals & Mining,0.8915,0.42652,624
+BHP/VALE,Other Industrial Metals & Mining,0.8202,0.44137,624
+BHP/TECK,Other Industrial Metals & Mining,0.8079,0.47284,624

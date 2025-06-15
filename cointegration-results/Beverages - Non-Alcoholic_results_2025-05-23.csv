@@ -1,0 +1,25 @@
+Ticker Pair,Industry,Correlation,Avg P-Value,Tests Run
+KO/PEP,Beverages - Non-Alcoholic,0.9669,0.31697,624
+FIZZ/PEP,Beverages - Non-Alcoholic,0.8823,0.35424,624
+FIZZ/KO,Beverages - Non-Alcoholic,0.8529,0.36942,624
+KDP/KO,Beverages - Non-Alcoholic,0.9509,0.42221,624
+CCEP/FIZZ,Beverages - Non-Alcoholic,0.8227,0.43466,624
+CELH/PEP,Beverages - Non-Alcoholic,0.8017,0.44222,624
+KO/PRMB,Beverages - Non-Alcoholic,0.8425,0.45824,624
+CCEP/COKE,Beverages - Non-Alcoholic,0.9241,0.47572,624
+CCEP/KDP,Beverages - Non-Alcoholic,0.9011,0.47803,624
+COKE/KO,Beverages - Non-Alcoholic,0.8868,0.49186,624
+KDP/PEP,Beverages - Non-Alcoholic,0.9675,0.49527,624
+KDP/MNST,Beverages - Non-Alcoholic,0.948,0.50181,624
+MNST/PRMB,Beverages - Non-Alcoholic,0.801,0.50562,624
+COKE/PEP,Beverages - Non-Alcoholic,0.807,0.51123,624
+FIZZ/KDP,Beverages - Non-Alcoholic,0.869,0.51215,624
+MNST/PEP,Beverages - Non-Alcoholic,0.9696,0.51784,624
+FIZZ/MNST,Beverages - Non-Alcoholic,0.9038,0.52372,624
+KO/MNST,Beverages - Non-Alcoholic,0.954,0.52668,624
+CCEP/KO,Beverages - Non-Alcoholic,0.9668,0.52756,624
+CCEP/PEP,Beverages - Non-Alcoholic,0.9164,0.53027,624
+CCEP/PRMB,Beverages - Non-Alcoholic,0.8959,0.5655,624
+CCEP/MNST,Beverages - Non-Alcoholic,0.9299,0.57767,624
+COKE/MNST,Beverages - Non-Alcoholic,0.8095,0.66596,624
+COKE/PRMB,Beverages - Non-Alcoholic,0.8885,0.68072,624

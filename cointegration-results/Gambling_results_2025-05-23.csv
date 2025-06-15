@@ -1,0 +1,4 @@
+Ticker Pair,Industry,Correlation,Avg P-Value,Tests Run
+CHDN/FLUT,Gambling,0.8687,0.55687,624
+FLUT/LNW,Gambling,0.8344,0.62965,624
+CHDN/LNW,Gambling,0.9017,0.63953,624

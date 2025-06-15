@@ -1,0 +1,6 @@
+Ticker Pair,Industry,Correlation,Avg P-Value,Tests Run
+DRH/SHO,REIT - Hotel & Motel,0.8423,0.31129,624
+HST/RHP,REIT - Hotel & Motel,0.8704,0.31693,624
+SOHO/SVC,REIT - Hotel & Motel,0.8472,0.34082,624
+PEB/SOHO,REIT - Hotel & Motel,0.8945,0.40034,624
+AHT/SVC,REIT - Hotel & Motel,0.8092,0.50211,624

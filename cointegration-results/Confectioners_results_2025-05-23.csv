@@ -1,0 +1,4 @@
+Ticker Pair,Industry,Correlation,Avg P-Value,Tests Run
+HSY/MDLZ,Confectioners,0.9586,0.42441,624
+HSY/TR,Confectioners,0.8275,0.54597,624
+MDLZ/TR,Confectioners,0.8409,0.5585,624

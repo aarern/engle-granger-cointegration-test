@@ -1,0 +1,5 @@
+Ticker Pair,Industry,Correlation,Avg P-Value,Tests Run
+IIIN/WOR,Metal Fabrication,0.8889,0.3914,624
+AP/GIFI,Metal Fabrication,0.8451,0.44744,624
+MLI/WOR,Metal Fabrication,0.8203,0.49833,624
+CRS/MLI,Metal Fabrication,0.8718,0.54391,624

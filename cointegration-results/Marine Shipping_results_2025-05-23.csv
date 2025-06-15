@@ -1,0 +1,18 @@
+Ticker Pair,Industry,Correlation,Avg P-Value,Tests Run
+GOGL/SBLK,Marine Shipping,0.8815,0.19062,624
+GLBS/SBLK,Marine Shipping,0.8953,0.20932,624
+CCEC/NMM,Marine Shipping,0.8558,0.24452,624
+GLBS/GOGL,Marine Shipping,0.9231,0.24477,624
+DSX/NMM,Marine Shipping,0.8573,0.25436,624
+NMM/SB,Marine Shipping,0.8059,0.2752,624
+GOGL/SB,Marine Shipping,0.8254,0.31183,624
+DSX/ESEA,Marine Shipping,0.8373,0.31966,624
+DSX/GOGL,Marine Shipping,0.8743,0.35595,624
+ESEA/GOGL,Marine Shipping,0.9253,0.38705,624
+SBLK/SHIP,Marine Shipping,0.8738,0.39746,624
+GOGL/NMM,Marine Shipping,0.829,0.40242,624
+ESEA/SBLK,Marine Shipping,0.9438,0.43415,624
+DSX/SBLK,Marine Shipping,0.8255,0.44303,624
+DSX/GLBS,Marine Shipping,0.8563,0.48672,624
+ESEA/GLBS,Marine Shipping,0.9423,0.49708,624
+CCEC/GASS,Marine Shipping,0.8135,0.50805,624

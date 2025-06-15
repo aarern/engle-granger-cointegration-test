@@ -1,0 +1,7 @@
+Ticker Pair,Industry,Correlation,Avg P-Value,Tests Run
+CTO/OLP,REIT - Diversified,0.9422,0.28429,624
+CTO/WPC,REIT - Diversified,0.8656,0.36445,624
+CTO/GOOD,REIT - Diversified,0.8423,0.40373,624
+GOOD/OLP,REIT - Diversified,0.9346,0.42564,624
+GOOD/WPC,REIT - Diversified,0.9214,0.45204,624
+OLP/WPC,REIT - Diversified,0.91,0.48469,624

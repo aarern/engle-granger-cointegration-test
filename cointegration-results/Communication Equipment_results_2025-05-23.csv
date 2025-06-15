@@ -1,0 +1,12 @@
+Ticker Pair,Industry,Correlation,Avg P-Value,Tests Run
+DGII/HLIT,Communication Equipment,0.868,0.21259,624
+CIEN/ZBRA,Communication Equipment,0.8987,0.28245,624
+JNPR/MSI,Communication Equipment,0.8131,0.2949,624
+DGII/MSI,Communication Equipment,0.8637,0.34476,624
+CIEN/MSI,Communication Equipment,0.8785,0.35716,624
+DGII/EXTR,Communication Equipment,0.8525,0.36129,624
+CIEN/CSCO,Communication Equipment,0.9165,0.40851,624
+CSCO/MSI,Communication Equipment,0.8892,0.45112,624
+AUDC/VIAV,Communication Equipment,0.8693,0.47238,624
+CSCO/ZBRA,Communication Equipment,0.869,0.47893,624
+AUDC/ZBRA,Communication Equipment,0.8524,0.57591,624

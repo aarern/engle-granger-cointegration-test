@@ -1,0 +1,4 @@
+Ticker Pair,Industry,Correlation,Avg P-Value,Tests Run
+DG/DLTR,Discount Stores,0.8727,0.49778,624
+COST/WMT,Discount Stores,0.9787,0.58074,624
+DG/TGT,Discount Stores,0.8834,0.61104,624

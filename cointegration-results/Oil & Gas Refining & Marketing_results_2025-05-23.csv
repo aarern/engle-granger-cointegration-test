@@ -1,0 +1,5 @@
+Ticker Pair,Industry,Correlation,Avg P-Value,Tests Run
+DINO/DK,Oil & Gas Refining & Marketing,0.8554,0.31387,624
+CVI/DINO,Oil & Gas Refining & Marketing,0.9271,0.39598,624
+SGU/VLO,Oil & Gas Refining & Marketing,0.9065,0.52858,624
+DINO/VLO,Oil & Gas Refining & Marketing,0.8069,0.53806,624

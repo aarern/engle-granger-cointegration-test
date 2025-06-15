@@ -1,0 +1,4 @@
+Ticker Pair,Industry,Correlation,Avg P-Value,Tests Run
+IMKTA/KR,Grocery Stores,0.8966,0.35499,624
+KR/WMK,Grocery Stores,0.8951,0.57592,624
+IMKTA/WMK,Grocery Stores,0.9248,0.65329,624

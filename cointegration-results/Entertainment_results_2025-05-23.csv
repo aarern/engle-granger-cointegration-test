@@ -1,0 +1,8 @@
+Ticker Pair,Industry,Correlation,Avg P-Value,Tests Run
+RDIB/SIRI,Entertainment,0.8781,0.21538,624
+CNK/RDI,Entertainment,0.8281,0.30024,624
+PARA/RDI,Entertainment,0.8047,0.35145,624
+LYV/NFLX,Entertainment,0.9096,0.55127,624
+LYV/TKO,Entertainment,0.8927,0.61767,624
+NFLX/TKO,Entertainment,0.8832,0.62206,624
+DIS/SIRI,Entertainment,0.8187,0.62958,624

@@ -1,0 +1,21 @@
+Ticker Pair,Industry,Correlation,Avg P-Value,Tests Run
+MET/MFC,Insurance - Life,0.9457,0.23533,624
+MET/UNM,Insurance - Life,0.8364,0.39251,624
+MET/PRU,Insurance - Life,0.9509,0.40557,624
+PRU/UNM,Insurance - Life,0.8387,0.40889,624
+CNO/MFC,Insurance - Life,0.94,0.44075,624
+LNC/PUK,Insurance - Life,0.845,0.45915,624
+MFC/PRU,Insurance - Life,0.9167,0.4937,624
+CNO/UNM,Insurance - Life,0.8874,0.49658,624
+GL/MET,Insurance - Life,0.8743,0.50793,624
+MFC/UNM,Insurance - Life,0.894,0.50883,624
+CNO/GL,Insurance - Life,0.8738,0.52903,624
+GL/PRU,Insurance - Life,0.8971,0.57016,624
+AFL/GL,Insurance - Life,0.8518,0.5815,624
+AFL/UNM,Insurance - Life,0.8735,0.60006,624
+CNO/MET,Insurance - Life,0.9276,0.60616,624
+CNO/PRU,Insurance - Life,0.9396,0.60811,624
+AFL/CNO,Insurance - Life,0.9167,0.61096,624
+AFL/PRU,Insurance - Life,0.909,0.63692,624
+AFL/MFC,Insurance - Life,0.9534,0.64785,624
+AFL/MET,Insurance - Life,0.9564,0.66106,624

@@ -1,0 +1,5 @@
+Ticker Pair,Industry,Correlation,Avg P-Value,Tests Run
+QVCGA/QVCGB,Internet Retail,0.9582,0.17198,624
+EBAY/MELI,Internet Retail,0.9167,0.39077,624
+AMZN/EBAY,Internet Retail,0.9496,0.46469,624
+AMZN/MELI,Internet Retail,0.9496,0.62332,624

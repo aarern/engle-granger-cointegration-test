@@ -1,0 +1,4 @@
+Ticker Pair,Industry,Correlation,Avg P-Value,Tests Run
+ROL/SCI,Personal Services,0.9734,0.43215,624
+CSV/SCI,Personal Services,0.8345,0.45547,624
+HRB/SCI,Personal Services,0.8266,0.52021,624

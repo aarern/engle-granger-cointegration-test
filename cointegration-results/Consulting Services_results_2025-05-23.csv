@@ -1,0 +1,11 @@
+Ticker Pair,Industry,Correlation,Avg P-Value,Tests Run
+FCN/ICFI,Consulting Services,0.9552,0.34344,624
+EFX/VRSK,Consulting Services,0.9483,0.35903,624
+FCN/VRSK,Consulting Services,0.9435,0.3777,624
+ICFI/VRSK,Consulting Services,0.9347,0.45789,624
+CRAI/ICFI,Consulting Services,0.8871,0.46615,624
+EFX/FCN,Consulting Services,0.8962,0.5712,624
+CRAI/EFX,Consulting Services,0.8684,0.59401,624
+CRAI/FCN,Consulting Services,0.898,0.60028,624
+EFX/ICFI,Consulting Services,0.9125,0.62088,624
+CRAI/VRSK,Consulting Services,0.9057,0.62635,624

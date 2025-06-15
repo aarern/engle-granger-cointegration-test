@@ -1,0 +1,4 @@
+Ticker Pair,Industry,Correlation,Avg P-Value,Tests Run
+CALM/CHSCP,Farm Products,0.8083,0.44656,624
+ADM/CHSCP,Farm Products,0.8627,0.46923,624
+ADM/BG,Farm Products,0.8823,0.53059,624

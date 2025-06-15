@@ -1,0 +1,10 @@
+Ticker Pair,Industry,Correlation,Avg P-Value,Tests Run
+PRGO/VTRS,Drug Manufacturers - Specialty & Generic,0.8725,0.24654,624
+PRGO/RMTI,Drug Manufacturers - Specialty & Generic,0.8326,0.28801,624
+BHC/PRGO,Drug Manufacturers - Specialty & Generic,0.8944,0.31601,624
+RMTI/TEVA,Drug Manufacturers - Specialty & Generic,0.8408,0.34009,624
+ASRT/TEVA,Drug Manufacturers - Specialty & Generic,0.8069,0.3675,624
+RDY/UTHR,Drug Manufacturers - Specialty & Generic,0.8475,0.39463,624
+ASRT/VTRS,Drug Manufacturers - Specialty & Generic,0.8828,0.42106,624
+PBH/UTHR,Drug Manufacturers - Specialty & Generic,0.8954,0.4726,624
+ASRT/PRGO,Drug Manufacturers - Specialty & Generic,0.8069,0.51753,624

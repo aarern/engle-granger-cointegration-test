@@ -1,0 +1,8 @@
+Ticker Pair,Industry,Correlation,Avg P-Value,Tests Run
+BC/LCII,Recreational Vehicles,0.9442,0.24431,624
+BC/WGO,Recreational Vehicles,0.9471,0.31677,624
+BC/THO,Recreational Vehicles,0.8844,0.32128,624
+LCII/THO,Recreational Vehicles,0.9342,0.33844,624
+LCII/WGO,Recreational Vehicles,0.9503,0.38651,624
+THO/WGO,Recreational Vehicles,0.8869,0.4371,624
+LCII/MPX,Recreational Vehicles,0.8269,0.45805,624

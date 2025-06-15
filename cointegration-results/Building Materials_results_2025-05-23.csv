@@ -1,0 +1,21 @@
+Ticker Pair,Industry,Correlation,Avg P-Value,Tests Run
+CRH/JHX,Building Materials,0.8515,0.26456,624
+MLM/VMC,Building Materials,0.9907,0.27479,624
+CRH/MLM,Building Materials,0.9501,0.2847,624
+CRH/VMC,Building Materials,0.9417,0.29497,624
+CRH/USLM,Building Materials,0.9405,0.31659,624
+CRH/EXP,Building Materials,0.9621,0.32636,624
+MLM/SMID,Building Materials,0.9463,0.33473,624
+SMID/VMC,Building Materials,0.9201,0.35156,624
+JHX/VMC,Building Materials,0.9265,0.36251,624
+EXP/VMC,Building Materials,0.9445,0.36432,624
+JHX/MLM,Building Materials,0.9335,0.37718,624
+CRH/SMID,Building Materials,0.9257,0.38293,624
+EXP/MLM,Building Materials,0.9566,0.39507,624
+EXP/SMID,Building Materials,0.9222,0.44981,624
+SMID/USLM,Building Materials,0.8466,0.47463,624
+EXP/JHX,Building Materials,0.8759,0.5046,624
+MLM/USLM,Building Materials,0.8328,0.52034,624
+JHX/SMID,Building Materials,0.8743,0.52926,624
+USLM/VMC,Building Materials,0.8181,0.52965,624
+EXP/USLM,Building Materials,0.8856,0.53803,624

@@ -1,0 +1,22 @@
+Ticker Pair,Industry,Correlation,Avg P-Value,Tests Run
+AON/MMC,Insurance Brokers,0.9884,0.21265,624
+AON/WTW,Insurance Brokers,0.9762,0.37355,624
+AON/CRVL,Insurance Brokers,0.9326,0.39623,624
+CRVL/MMC,Insurance Brokers,0.9627,0.41169,624
+BRO/MMC,Insurance Brokers,0.9815,0.4196,624
+MMC/WTW,Insurance Brokers,0.9728,0.45216,624
+AJG/MMC,Insurance Brokers,0.9822,0.45405,624
+AON/BRO,Insurance Brokers,0.9597,0.46041,624
+CRVL/WTW,Insurance Brokers,0.929,0.4773,624
+AJG/AON,Insurance Brokers,0.9566,0.47925,624
+ERIE/WTW,Insurance Brokers,0.939,0.50368,624
+ERIE/MMC,Insurance Brokers,0.9441,0.50772,624
+BRO/CRVL,Insurance Brokers,0.9827,0.52593,624
+AJG/WTW,Insurance Brokers,0.9473,0.54923,624
+BRO/WTW,Insurance Brokers,0.9631,0.54932,624
+AJG/CRVL,Insurance Brokers,0.9857,0.56781,624
+AJG/BRO,Insurance Brokers,0.9896,0.56825,624
+AON/ERIE,Insurance Brokers,0.9114,0.58337,624
+BRO/ERIE,Insurance Brokers,0.9567,0.61188,624
+CRVL/ERIE,Insurance Brokers,0.9425,0.63457,624
+AJG/ERIE,Insurance Brokers,0.9532,0.6796,624
